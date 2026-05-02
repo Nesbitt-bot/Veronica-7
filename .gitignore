@@ -15,6 +15,14 @@
 # production
 /build
 
+# vitepress
+docs/.vitepress/dist
+docs/.vitepress/cache
+
+# wrangler / cloudflare
+.wrangler/
+.dev.vars
+
 # misc
 .DS_Store
 *.pem
@@ -34,3 +42,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.claude
