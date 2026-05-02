@@ -14,7 +14,7 @@ hero:
       link: /transformer-era/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/wuzheyuan/Lavender-1
+      link: https://github.com/wuzheyuan/Veronica-7
 
 features:
   - title: Fundamentals & History

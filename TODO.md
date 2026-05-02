@@ -37,152 +37,202 @@ Reference seeded examples: `docs/llm/basics/transformer.md`,
 - [x] `docs/llm/efficient/inference.md`
 - [x] `docs/llm/efficient/long-context.md`
 
-## Round 3 — Factuality, Applications, Multimodal
+## Round 3 — Factuality, Applications, Multimodal ✅ done
 
-- [ ] `docs/llm/factuality/hallucination.md` — Snowballing, Multiagent
+- [x] `docs/llm/factuality/hallucination.md` — Snowballing, Multiagent
       Debate, Context-Aware Decoding, Bayesian Sequential Detection.
-- [ ] `docs/llm/factuality/calibration.md` — "Just Ask for Calibration",
+- [x] `docs/llm/factuality/calibration.md` — "Just Ask for Calibration",
       Verbalised Uncertainty, Reward Calibration in RLHF, Grey-Area
       Confidence.
-- [ ] `docs/llm/applications/rag.md` — Lewis et al. RAG, Knowledge
+- [x] `docs/llm/applications/rag.md` — Lewis et al. RAG, Knowledge
       Boundary, REPLUG, Self-RAG.
-- [ ] `docs/llm/applications/agents.md` — Toolformer, ToolLLM, ART,
+- [x] `docs/llm/applications/agents.md` — Toolformer, ToolLLM, ART,
       A-MEM.
-- [ ] `docs/llm/applications/agentic-rag.md` — Adaptive-RAG, Auto-RAG,
+- [x] `docs/llm/applications/agentic-rag.md` — Adaptive-RAG, Auto-RAG,
       Search-o1, Search-R1.
-- [ ] `docs/llm/applications/multimodal.md` — CLIP, Visual Instruction
+- [x] `docs/llm/applications/multimodal.md` — CLIP, Visual Instruction
       Tuning (LLaVA), NExT-GPT, Object Hallucination in VLMs.
 
-## Round 4 — Evaluation, Architectures, Bias, Safety
+## Round 4 — Evaluation, Architectures, Bias, Safety ✅ done
 
-- [ ] `docs/llm/evaluation/eval.md` — Test-set contamination, Code-Eval
+- [x] `docs/llm/evaluation/eval.md` — Test-set contamination, Code-Eval
       rigour, "LLMs are not Fair Evaluators", HELM.
-- [ ] `docs/llm/evaluation/detection.md` — DetectGPT, GPT-who,
+- [x] `docs/llm/evaluation/detection.md` — DetectGPT, GPT-who,
       Watermarking, GPT-Sentinel.
-- [ ] `docs/llm/other/architectures.md` — Mixtral / MoE, Mamba (SSD),
+- [x] `docs/llm/other/architectures.md` — Mixtral / MoE, Mamba (SSD),
       RWKV, Hierarchical Reasoning Model.
-- [ ] `docs/llm/other/bias.md` — Gender Amplification, Whose Opinions,
+- [x] `docs/llm/other/bias.md` — Gender Amplification, Whose Opinions,
       Reference-Letter Bias, Red-Teaming via LMs.
-- [ ] `docs/llm/other/safety.md` — Multi-step Jailbreak Privacy,
+- [x] `docs/llm/other/safety.md` — Multi-step Jailbreak Privacy,
       20-Query Jailbreak, Memorization, Instruction-Tuning Poisoning.
 
-## Round 5 — Computer Vision Modern Topics
+## Round 5 — Computer Vision Modern Topics ✅ done
 
 For each, write a paper-list page using the upstream syllabus topics in
 [docs/cv/index.md](docs/cv/index.md). The original CSE5519 reading list
 is captured in `scripts/import-notenextra.mjs` if needed for reference.
 
-- [ ] `docs/cv/advances/semantic-segmentation.md` — DeepLabv3+, SETR,
+- [x] `docs/cv/advances/semantic-segmentation.md` — DeepLabv3+, SETR,
       Swin, SegFormer, Mask2Former, SAM, SAM 2, Grounded SAM, etc.
-- [ ] `docs/cv/advances/vision-language.md` — CLIP, Flamingo, BLIP-1/2,
+- [x] `docs/cv/advances/vision-language.md` — CLIP, Flamingo, BLIP-1/2,
       LLaVA-1.5, Gemini 1.5, Molmo, ReVisionLLM.
-- [ ] `docs/cv/advances/neural-rendering.md` — NeRF, Plenoxels, Mip-NeRF
+- [x] `docs/cv/advances/neural-rendering.md` — NeRF, Plenoxels, Mip-NeRF
       360, 3DGS, COLMAP-Free 3DGS.
-- [ ] `docs/cv/advances/generation.md` — AttnGAN, DF-GAN, DALL·E,
+- [x] `docs/cv/advances/generation.md` — AttnGAN, DF-GAN, DALL·E,
       Latent Diffusion, DreamBooth, Sora, Wan.
-- [ ] `docs/cv/advances/geometric.md` — PoseNet, MeshLoc, DUSt3R,
+- [x] `docs/cv/advances/geometric.md` — PoseNet, MeshLoc, DUSt3R,
       Depth Anything, VGGT, Fast3R.
-- [ ] `docs/cv/advances/representation.md` — SimCLR, MoCo, MAE, JEPA,
+- [x] `docs/cv/advances/representation.md` — SimCLR, MoCo, MAE, JEPA,
       DINOv2, FLAIR.
-- [ ] `docs/cv/advances/sfm.md` — SfM Revisited, SuperGlue, RAFT,
+- [x] `docs/cv/advances/sfm.md` — SfM Revisited, SuperGlue, RAFT,
       LoFTR, LightGlue, MegaSaM.
-- [ ] `docs/cv/advances/safety.md` — "Object Recognition for Everyone",
+- [x] `docs/cv/advances/safety.md` — "Object Recognition for Everyone",
       OccamNets, GeoNet, de-biasing T2I.
-- [ ] `docs/cv/advances/embodied.md` — ViNG, ViKiNG, GNM, NoMaD,
+- [x] `docs/cv/advances/embodied.md` — ViNG, ViKiNG, GNM, NoMaD,
       Navigation World Models.
-- [ ] `docs/cv/advances/open-vocab.md` — OVR-CNN, MDETR, ViLD, CORA,
+- [x] `docs/cv/advances/open-vocab.md` — OVR-CNN, MDETR, ViLD, CORA,
       Grounding DINO, OW-OVD, DINO-X.
 
-## Round 6 — Computer Vision Foundations
+## Round 6 — Computer Vision Foundations ✅ done
 
-Each is currently a one-line stub.
+- [x] `docs/cv/foundations/image-formation.md`
+- [x] `docs/cv/foundations/filters.md`
+- [x] `docs/cv/foundations/edges-corners.md`
+- [x] `docs/cv/foundations/features.md`
+- [x] `docs/cv/foundations/pyramids.md`
+- [x] `docs/cv/foundations/calibration.md`
+- [x] `docs/cv/foundations/stereo.md`
+- [x] `docs/cv/foundations/optical-flow.md`
 
-- [ ] `docs/cv/foundations/image-formation.md`
-- [ ] `docs/cv/foundations/filters.md`
-- [ ] `docs/cv/foundations/edges-corners.md`
-- [ ] `docs/cv/foundations/features.md`
-- [ ] `docs/cv/foundations/pyramids.md`
-- [ ] `docs/cv/foundations/calibration.md`
-- [ ] `docs/cv/foundations/stereo.md`
-- [ ] `docs/cv/foundations/optical-flow.md`
+## Round 7 — Deep Vision Architectures ✅ done
 
-## Round 7 — Deep Vision Architectures
+- [x] `docs/cv/deep/cnn-backbones.md`
+- [x] `docs/cv/deep/object-detection.md`
+- [x] `docs/cv/deep/semantic-segmentation.md`
+- [x] `docs/cv/deep/instance-segmentation.md`
+- [x] `docs/cv/deep/vit.md`
 
-- [ ] `docs/cv/deep/cnn-backbones.md`
-- [ ] `docs/cv/deep/object-detection.md`
-- [ ] `docs/cv/deep/semantic-segmentation.md`
-- [ ] `docs/cv/deep/instance-segmentation.md`
-- [ ] `docs/cv/deep/vit.md`
+## Round 8 — Deep Neural Networks foundations ✅ done
 
-## Round 8 — Deep Neural Networks foundations
+- [x] `docs/dnn/basics/mlp.md`
+- [x] `docs/dnn/basics/activations.md`
+- [x] `docs/dnn/basics/backpropagation.md`
+- [x] `docs/dnn/basics/losses.md`
+- [x] `docs/dnn/basics/initialization.md`
+- [x] `docs/dnn/optimization/sgd.md`
+- [x] `docs/dnn/optimization/adam.md`
+- [x] `docs/dnn/optimization/lr-schedules.md`
+- [x] `docs/dnn/optimization/second-order.md`
+- [x] `docs/dnn/regularization/dropout.md`
 
-- [ ] `docs/dnn/basics/mlp.md`
-- [ ] `docs/dnn/basics/activations.md`
-- [ ] `docs/dnn/basics/backpropagation.md`
-- [ ] `docs/dnn/basics/losses.md`
-- [ ] `docs/dnn/basics/initialization.md`
-- [ ] `docs/dnn/optimization/sgd.md`
-- [ ] `docs/dnn/optimization/adam.md`
-- [ ] `docs/dnn/optimization/lr-schedules.md`
-- [ ] `docs/dnn/optimization/second-order.md`
-- [ ] `docs/dnn/regularization/dropout.md`
+## Round 9 — More DNN ✅ done
 
-## Round 9 — More DNN
+- [x] `docs/dnn/regularization/normalization.md`
+- [x] `docs/dnn/regularization/augmentation.md`
+- [x] `docs/dnn/regularization/double-descent.md`
+- [x] `docs/dnn/cnn/convolution.md`
+- [x] `docs/dnn/cnn/lenet-alexnet.md`
+- [x] `docs/dnn/cnn/resnet-family.md`
+- [x] `docs/dnn/rnn/vanilla.md`
+- [x] `docs/dnn/rnn/lstm-gru.md`
+- [x] `docs/dnn/rnn/seq2seq.md`
+- [x] `docs/dnn/rnn/bahdanau-attention.md`
 
-- [ ] `docs/dnn/regularization/normalization.md`
-- [ ] `docs/dnn/regularization/augmentation.md`
-- [ ] `docs/dnn/regularization/double-descent.md`
-- [ ] `docs/dnn/cnn/convolution.md`
-- [ ] `docs/dnn/cnn/lenet-alexnet.md`
-- [ ] `docs/dnn/cnn/resnet-family.md`
-- [ ] `docs/dnn/rnn/vanilla.md`
-- [ ] `docs/dnn/rnn/lstm-gru.md`
-- [ ] `docs/dnn/rnn/seq2seq.md`
-- [ ] `docs/dnn/rnn/bahdanau-attention.md`
+## Round 10 — Generative + GNN + RL (DNN) ✅ done
 
-## Round 10 — Generative + GNN + RL (DNN)
+- [x] `docs/dnn/generative/autoencoders.md`
+- [x] `docs/dnn/generative/vae.md`
+- [x] `docs/dnn/generative/gan.md`
+- [x] `docs/dnn/generative/normalizing-flows.md`
+- [x] `docs/dnn/generative/pixel-models.md`
+- [x] `docs/dnn/gnn/gcn.md`
+- [x] `docs/dnn/gnn/message-passing.md`
+- [x] `docs/dnn/gnn/gat.md`
+- [x] `docs/dnn/rl/index.md`
+- [x] `docs/dnn/rl/mdp.md`
 
-- [ ] `docs/dnn/generative/autoencoders.md`
-- [ ] `docs/dnn/generative/vae.md`
-- [ ] `docs/dnn/generative/gan.md`
-- [ ] `docs/dnn/generative/normalizing-flows.md`
-- [ ] `docs/dnn/generative/pixel-models.md`
-- [ ] `docs/dnn/gnn/gcn.md`
-- [ ] `docs/dnn/gnn/message-passing.md`
-- [ ] `docs/dnn/gnn/gat.md`
-- [ ] `docs/dnn/rl/index.md`
-- [ ] `docs/dnn/rl/mdp.md`
+## Round 11 — Rest of RL ✅ done
 
-## Round 11 — Rest of RL
+- [x] `docs/dnn/rl/q-learning.md`
+- [x] `docs/dnn/rl/policy-gradient.md`
+- [x] `docs/dnn/rl/dqn.md`
+- [x] `docs/dnn/rl/actor-critic.md`
+- [x] `docs/dnn/rl/ppo-trpo.md`
+- [x] `docs/dnn/rl/ddpg-sac.md`
+- [x] `docs/dnn/rl/world-models.md`
+- [x] `docs/dnn/rl/offline-rl.md`
+- [x] `docs/dnn/rl/multi-agent.md`
 
-- [ ] `docs/dnn/rl/q-learning.md`
-- [ ] `docs/dnn/rl/policy-gradient.md`
-- [ ] `docs/dnn/rl/dqn.md`
-- [ ] `docs/dnn/rl/actor-critic.md`
-- [ ] `docs/dnn/rl/ppo-trpo.md`
-- [ ] `docs/dnn/rl/ddpg-sac.md`
-- [ ] `docs/dnn/rl/world-models.md`
-- [ ] `docs/dnn/rl/offline-rl.md`
-- [ ] `docs/dnn/rl/multi-agent.md`
+## Round 12 — Fundamentals: math + theory ✅ done
 
-## Round 12+ — Fundamentals & Transformer Era
+- [x] `docs/fundamentals/math/linear-algebra.md`
+- [x] `docs/fundamentals/math/probability.md`
+- [x] `docs/fundamentals/math/calculus.md`
+- [x] `docs/fundamentals/math/convex-optimization.md`
+- [x] `docs/fundamentals/theory/bias-variance.md`
+- [x] `docs/fundamentals/theory/cross-validation.md`
+- [x] `docs/fundamentals/theory/erm.md`
+- [x] `docs/fundamentals/theory/generalization.md`
+- [x] `docs/fundamentals/theory/learning-paradigms.md`
+- [x] `docs/fundamentals/theory/pac-learning.md`
+- [x] `docs/fundamentals/theory/regularization.md`
 
-The Fundamentals & History section and the chronological Transformer Era
-section both still have many stubs. Continue from these lists in
-subsequent rounds (groups of 5–10 each):
+## Round 13 — Fundamentals: classical + ensembles ✅ done
 
-- `docs/fundamentals/math/linear-algebra.md`,
-  `probability.md`, `calculus.md`, `convex-optimization.md`
-- `docs/fundamentals/theory/*` (7 stubs)
-- `docs/fundamentals/classical/*` — already seeded: ols, svm, perceptron.
-  Remaining: ridge-lasso, logistic-regression, glm, knn, naive-bayes,
-  lda-qda, kernels.
-- `docs/fundamentals/ensembles/*` (4 stubs)
-- `docs/fundamentals/unsupervised/*` (5 stubs)
-- `docs/fundamentals/probabilistic/*` (4 stubs)
-- `docs/fundamentals/history/*` (5 stubs)
-- `docs/transformer-era/**` — every year folder still has stubs (~50
-  pages). Order chronologically.
+- [x] `docs/fundamentals/classical/ridge-lasso.md`
+- [x] `docs/fundamentals/classical/logistic-regression.md`
+- [x] `docs/fundamentals/classical/glm.md`
+- [x] `docs/fundamentals/classical/knn.md`
+- [x] `docs/fundamentals/classical/naive-bayes.md`
+- [x] `docs/fundamentals/classical/lda-qda.md`
+- [x] `docs/fundamentals/classical/kernels.md`
+- [x] `docs/fundamentals/ensembles/decision-trees.md`
+- [x] `docs/fundamentals/ensembles/random-forests.md`
+- [x] `docs/fundamentals/ensembles/adaboost.md`
+- [x] `docs/fundamentals/ensembles/gradient-boosting.md`
+
+## Round 14 — Fundamentals: unsupervised + probabilistic + history ✅ done
+
+- [x] `docs/fundamentals/unsupervised/kmeans.md`
+- [x] `docs/fundamentals/unsupervised/gmm-em.md`
+- [x] `docs/fundamentals/unsupervised/hierarchical.md`
+- [x] `docs/fundamentals/unsupervised/pca-svd.md`
+- [x] `docs/fundamentals/unsupervised/manifold-learning.md`
+- [x] `docs/fundamentals/probabilistic/markov-chains.md`
+- [x] `docs/fundamentals/probabilistic/hmm.md`
+- [x] `docs/fundamentals/probabilistic/bayes-nets.md`
+- [x] `docs/fundamentals/probabilistic/crf.md`
+- [x] `docs/fundamentals/history/symbolic-ai.md`
+- [x] `docs/fundamentals/history/connectionism.md`
+- [x] `docs/fundamentals/history/statistical-learning.md`
+- [x] `docs/fundamentals/history/kernel-era.md`
+- [x] `docs/fundamentals/history/deep-learning-renaissance.md`
+
+## Round 15 — Transformer Era 2017–2019 ✅ done
+
+- [x] `docs/transformer-era/2017/attention-is-all-you-need.md`
+- [x] `docs/transformer-era/2017/self-attention.md`
+- [x] `docs/transformer-era/2018-2019/bert.md`
+- [x] `docs/transformer-era/2018-2019/bert-variants.md`
+- [x] `docs/transformer-era/2018-2019/gpt-1.md`
+- [x] `docs/transformer-era/2018-2019/gpt-2.md`
+- [x] `docs/transformer-era/2018-2019/t5.md`
+- [x] `docs/transformer-era/2018-2019/xlnet.md`
+
+## Round 16 — Transformer Era 2020 + 2020-2021 ✅ done
+
+- [x] `docs/transformer-era/2020/gpt-3.md`
+- [x] `docs/transformer-era/2020/scaling-laws.md`
+- [x] `docs/transformer-era/2020/efficient-attention.md`
+- [x] `docs/transformer-era/2020-2021/vit.md`
+- [x] `docs/transformer-era/2020-2021/clip.md`
+- [x] `docs/transformer-era/2020-2021/dall-e.md`
+- [x] `docs/transformer-era/2020-2021/codex.md`
+
+## Remaining rounds
+
+- `docs/transformer-era/**` — year folders 2021-2022 onward still have stubs.
+  Order chronologically.
 
 ## Round-completion checklist
 

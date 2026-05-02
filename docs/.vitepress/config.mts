@@ -56,7 +56,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/wuzheyuan/Lavender-1' }
+      { icon: 'github', link: 'https://github.com/wuzheyuan/Veronica-7' }
     ],
 
     footer: {
@@ -71,7 +71,7 @@ export default defineConfig({
 
     editLink: {
       pattern:
-        'https://github.com/wuzheyuan/Lavender-1/edit/main/docs/:path',
+        'https://github.com/wuzheyuan/Veronica-7/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     }
   }

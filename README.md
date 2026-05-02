@@ -1,4 +1,4 @@
-# Lavender-1
+# Veronica-7
 
 Project Lavender
 
@@ -63,7 +63,7 @@ files to destination paths. Edit it to add or rearrange imports.
 ```bash
 npm run docs:build
 npx wrangler login
-npx wrangler pages deploy docs/.vitepress/dist --project-name lavender-1
+npx wrangler pages deploy docs/.vitepress/dist --project-name Veronica-7
 ```
 
 Or use the bundled npm shortcut: `npm run deploy`.

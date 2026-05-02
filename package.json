@@ -1,5 +1,5 @@
 {
-  "name": "lavender-1",
+  "name": "Veronica-7",
   "version": "0.1.0",
   "private": true,
   "description": "Project Lavender — bridging undergraduate ML education to SOTA research.",
@@ -11,11 +11,11 @@
     "import": "node scripts/import-notenextra.mjs",
     "stubs": "node scripts/generate-stubs.mjs",
     "scaffold": "node scripts/generate-stubs.mjs && node scripts/import-notenextra.mjs",
-    "deploy": "npm run docs:build && wrangler pages deploy docs/.vitepress/dist --project-name lavender-1"
+    "deploy": "npm run docs:build && wrangler pages deploy docs/.vitepress/dist --project-name Veronica-7"
   },
   "devDependencies": {
     "vitepress": "^1.5.0",
     "markdown-it-mathjax3": "^4.3.2",
-    "wrangler": "^3.90.0"
+    "wrangler": "^4.87.0"
   }
 }
