@@ -229,9 +229,22 @@ is captured in `scripts/import-notenextra.mjs` if needed for reference.
 - [x] `docs/transformer-era/2020-2021/dall-e.md`
 - [x] `docs/transformer-era/2020-2021/codex.md`
 
+## Round 17 — Transformer Era 2021-2022 + 2022 ✅ done
+
+- [x] `docs/transformer-era/2021-2022/ddpm.md`
+- [x] `docs/transformer-era/2021-2022/cfg.md`
+- [x] `docs/transformer-era/2021-2022/latent-diffusion.md`
+- [x] `docs/transformer-era/2021-2022/dall-e-2-imagen.md`
+- [x] `docs/transformer-era/2022/flamingo.md`
+- [x] `docs/transformer-era/2022/instructgpt.md`
+- [x] `docs/transformer-era/2022/rlhf.md`
+- [x] `docs/transformer-era/2022/chatgpt.md`
+- [x] `docs/transformer-era/2022/palm-chinchilla.md`
+- [x] `docs/transformer-era/2022/whisper.md`
+
 ## Remaining rounds
 
-- `docs/transformer-era/**` — year folders 2021-2022 onward still have stubs.
+- `docs/transformer-era/**` — year folders 2023 onward still have stubs.
   Order chronologically.
 
 ## Round-completion checklist
