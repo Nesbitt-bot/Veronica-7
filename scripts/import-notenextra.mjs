@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Import ML-related lecture notes from Trance-0/NoteNextra into the
-// Lavender VitePress site. Imports land under `docs/_imports/` so they
+// Veronica VitePress site. Imports land under `docs/_imports/` so they
 // don't pollute the topic-oriented sidebar; topic pages can reference
 // them as needed.
 //

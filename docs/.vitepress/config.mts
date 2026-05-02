@@ -8,7 +8,7 @@ import { llmSidebar } from './sidebars/llm'
 import { transformerEraSidebar } from './sidebars/transformer-era'
 
 export default defineConfig({
-  title: 'Project Lavender',
+  title: 'Project Veronica',
   description:
     'Bridging undergraduate machine learning education to state-of-the-art research. A continuation of NoteNextra.',
   lang: 'en-US',
@@ -30,7 +30,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    siteTitle: 'Lavender',
+    siteTitle: 'Veronica',
     nav: [
       { text: 'Home', link: '/' },
       {
@@ -62,7 +62,7 @@ export default defineConfig({
     footer: {
       message:
         'Released under the MIT License. Content imported and adapted from <a href="https://github.com/Trance-0/NoteNextra">NoteNextra</a>.',
-      copyright: 'Copyright © 2025–present Project Lavender contributors'
+      copyright: 'Copyright © 2025–present Project Veronica contributors'
     },
 
     search: { provider: 'local' },

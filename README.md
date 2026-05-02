@@ -1,6 +1,6 @@
 # Veronica-7
 
-Project Lavender
+Project Veronica
 
 Our goal is to bridge the gap for undergraduate with machine learning lessons to SOTA.
 
@@ -16,7 +16,7 @@ Making ideas freely flow between each others minds, helping people to express, a
 
 ## The site
 
-Project Lavender is published as a [VitePress](https://vitepress.dev) static site, deployed to [Cloudflare Pages](https://pages.cloudflare.com).
+Project Veronica is published as a [VitePress](https://vitepress.dev) static site, deployed to [Cloudflare Pages](https://pages.cloudflare.com).
 
 ### Local development
 

@@ -2,7 +2,7 @@
   "name": "Veronica-7",
   "version": "0.1.0",
   "private": true,
-  "description": "Project Lavender — bridging undergraduate ML education to SOTA research.",
+  "description": "Project Veronica — bridging undergraduate ML education to SOTA research.",
   "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",

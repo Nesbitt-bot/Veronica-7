@@ -84,7 +84,7 @@ for (const { text, link } of all) {
     '',
     '## Why this article exists',
     '',
-    `In the topological / chronological ordering of Project Lavender, this`,
+    `In the topological / chronological ordering of Project Veronica, this`,
     `entry sits between its sidebar neighbours. Filling it in is a way to`,
     `extend the curriculum without breaking the reading order.`,
     ''

@@ -1,4 +1,4 @@
-# Lavender — Content Backlog
+# Veronica — Content Backlog
 
 This file is the **work queue** for filling out stub pages. Each round, an
 agent should pick the next batch (5–10 pages), seed each one with the
@@ -242,10 +242,42 @@ is captured in `scripts/import-notenextra.mjs` if needed for reference.
 - [x] `docs/transformer-era/2022/palm-chinchilla.md`
 - [x] `docs/transformer-era/2022/whisper.md`
 
+## Round 18 — Transformer Era 2023 + key 2023-2024 architectures ✅ done
+
+- [x] `docs/transformer-era/2023/gpt-4.md`
+- [x] `docs/transformer-era/2023/claude.md`
+- [x] `docs/transformer-era/2023/constitutional-ai.md`
+- [x] `docs/transformer-era/2023/llama.md`
+- [x] `docs/transformer-era/2023/mistral.md`
+- [x] `docs/transformer-era/2023/open-models.md`
+- [x] `docs/transformer-era/2023-2024/mamba.md`
+- [x] `docs/transformer-era/2023-2024/moe.md`
+- [x] `docs/transformer-era/2023-2024/position-encodings.md`
+- [x] `docs/transformer-era/2023-2024/long-context.md`
+
+## Round 19 — Rest of Transformer Era 2023-2024 ✅ done
+
+- [x] `docs/transformer-era/2023-2024/rag.md`
+- [x] `docs/transformer-era/2023-2024/react-toolformer.md`
+- [x] `docs/transformer-era/2023-2024/tool-use.md`
+- [x] `docs/transformer-era/2023-2024/agent-frameworks.md`
+- [x] `docs/transformer-era/2023-2024/linear-attention.md`
+- [x] `docs/transformer-era/2023-2024/sparse-attention.md`
+- [x] `docs/transformer-era/2023-2024/rwkv.md`
+
+## Round 20 — Transformer Era 2024 ✅ done
+
+- [x] `docs/transformer-era/2024/claude-3.md`
+- [x] `docs/transformer-era/2024/gemini-1-5.md`
+- [x] `docs/transformer-era/2024/gpt-4o.md`
+- [x] `docs/transformer-era/2024/llama-3.md`
+- [x] `docs/transformer-era/2024/sora.md`
+
+## Round 21 — IN PROGRESS (Transformer Era 2024-2025)
+
 ## Remaining rounds
 
-- `docs/transformer-era/**` — year folders 2023 onward still have stubs.
-  Order chronologically.
+- `docs/transformer-era/2025-2026/**` still have stubs.
 
 ## Round-completion checklist
 

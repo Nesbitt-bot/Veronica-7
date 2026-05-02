@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Project Lavender
+  name: Project Veronica
   text: Undergraduate ML → SOTA
   tagline: A continuing project of NoteNextra. Bridging the gap from foundational machine learning to state-of-the-art research, one carefully ordered article at a time.
   actions:
@@ -39,13 +39,13 @@ features:
     linkText: Walk the timeline
 ---
 
-## Why Lavender?
+## Why Veronica?
 
 > Our goal is to bridge the gap for undergraduates from machine-learning lessons to SOTA.
 >
 > This is a continuing project of [NoteNextra](https://github.com/Trance-0/NoteNextra).
 
-Project Lavender re-organizes scattered course notes — primarily from the WashU CSE/Math sequence — into a single, topologically ordered curriculum. Earlier articles never assume material that hasn't been introduced yet, so a curious undergraduate can read top-to-bottom and arrive at the frontier.
+Project Veronica re-organizes scattered course notes — primarily from the WashU CSE/Math sequence — into a single, topologically ordered curriculum. Earlier articles never assume material that hasn't been introduced yet, so a curious undergraduate can read top-to-bottom and arrive at the frontier.
 
 ## How the curriculum is ordered
 
