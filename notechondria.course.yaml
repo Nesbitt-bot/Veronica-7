@@ -1,0 +1,10 @@
+version: 1
+preset: vitepress          # docs root; .vitepress/** + public/** excluded
+course:
+  title: "Project Veronica — Modern ML/CV"
+  slug: veronica-7
+  description: "A living survey of modern computer vision and deep learning."
+content:
+  module_depth: 1          # 6 modules mirroring the VitePress sidebars
+sync:
+  write: ["**/*.md"]       # sync writes markdown only; never .vitepress/**, code, or CI
