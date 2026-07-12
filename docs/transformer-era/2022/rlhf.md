@@ -1,5 +1,5 @@
 ---
-title: "RLHF: Reward Models & PPO"
+title: 'RLHF: Reward Models & PPO'
 order: 3
 ---
 
